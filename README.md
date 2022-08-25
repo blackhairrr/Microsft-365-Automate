@@ -34,6 +34,8 @@
 ![create 9](https://user-images.githubusercontent.com/37354986/186589071-9fda3d9e-a719-4eef-bfe9-05bf2d900219.PNG)
 - Add column and choose the data type.
 
+
+
 ![create 10](https://user-images.githubusercontent.com/37354986/186589162-51d463f4-24ba-4e9d-bad5-2e8b5af2e2f9.PNG)
 
 ## 3. Open the Microsoft Power Automate
@@ -48,3 +50,46 @@
 ![Automate 4](https://user-images.githubusercontent.com/37354986/186591195-171b7c16-2d23-4d3e-8945-de7a8cc4765b.PNG)
 - Configure the automation.
 
+## 4. Configuring Automation
+![Automate 5](https://user-images.githubusercontent.com/37354986/186593956-46a9202a-1db0-4e7a-9210-ce9e96b2a5e9.PNG)
+- Select your form's name
+
+![Automate 6](https://user-images.githubusercontent.com/37354986/186594097-b5d0f843-5f11-4182-8966-521dc9930860.PNG)
+- Choose the same name
+
+![Automate 7](https://user-images.githubusercontent.com/37354986/186594162-32c89a3c-6da5-4519-bd79-5753c1be2004.PNG)
+- Put your message that will sending by the requestor to the approver.
+
+![Automate 8](https://user-images.githubusercontent.com/37354986/186594325-aaae01eb-fad9-4c44-a27b-b0c050b1f844.PNG)
+- Select the database location from the sharepoint
+
+![Automate 9](https://user-images.githubusercontent.com/37354986/186594426-daab75b8-a739-4bf4-9924-ad05e4f36df4.PNG)
+- Select the database name that you created
+
+![Automate 10](https://user-images.githubusercontent.com/37354986/186594549-8cc640a0-5878-49b3-a3a7-311397943446.PNG)
+- Link all the column with the form's data
+
+![Automate 11](https://user-images.githubusercontent.com/37354986/186594609-03d79f78-d5f1-440d-ba2a-d95142f1c4e5.PNG)
+
+Next,
+
+![Automate 12](https://user-images.githubusercontent.com/37354986/186594701-abf9bc54-57b0-498f-b29b-e29caf8a490f.PNG)
+- Enter the message that will sending by the approver to the requester.
+
+![Automate 16](https://user-images.githubusercontent.com/37354986/186600131-4ec50094-e8b2-43fd-a460-f08139662311.PNG)
+- Search profile and choose Get My Profile V2
+
+![Automate 17](https://user-images.githubusercontent.com/37354986/186600257-487f14f6-4f4f-4f20-953f-20642dd45e18.PNG)
+- Click on advance and add Mail
+
+
+![Automate 18](https://user-images.githubusercontent.com/37354986/186600495-216bb1ec-c68a-4a8e-80c6-c08766d0318b.PNG)
+- add step and search send an email. And choose that action.
+
+![Automate 19](https://user-images.githubusercontent.com/37354986/186600673-eba38d7b-8ca4-49e9-82bd-81c5cdadd636.PNG)
+
+![Automate 20](https://user-images.githubusercontent.com/37354986/186600697-5813b068-0159-493b-a563-1ab2a8ff72bc.PNG)
+- Fill out the message that you want to email to the requester.
+
+![Automate 13](https://user-images.githubusercontent.com/37354986/186601320-aeb211a1-da97-47d8-a5dd-5c832a683a38.PNG)
+- Save and set the flow name.
