@@ -21,3 +21,11 @@
 ![create 4](https://user-images.githubusercontent.com/37354986/186581609-45c8c2ef-0b82-40a2-92ba-713573b068fc.PNG)
 
 ![create 5](https://user-images.githubusercontent.com/37354986/186581758-29c64872-578e-43fc-aa3b-dd02c23fa823.PNG)
+- Click on new, then list.
+
+
+![create 6](https://user-images.githubusercontent.com/37354986/186587433-aa71a852-2764-4be4-9c2b-3553ca25b9ca.PNG)
+- Choose a blank list
+
+![create 7](https://user-images.githubusercontent.com/37354986/186587515-a144e1d0-9fb8-4a1d-b0e0-164eb0398872.PNG)
+- Enter the database name.
