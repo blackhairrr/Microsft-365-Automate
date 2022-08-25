@@ -77,7 +77,7 @@ Next,
 - Enter the message that will sending by the approver to the requester.
 
 ![Automate 16](https://user-images.githubusercontent.com/37354986/186600131-4ec50094-e8b2-43fd-a460-f08139662311.PNG)
-- Search profile and choose Get My Profile V2
+- Add step to email the requestor for the approved status. Search profile and choose Get My Profile V2
 
 ![Automate 17](https://user-images.githubusercontent.com/37354986/186600257-487f14f6-4f4f-4f20-953f-20642dd45e18.PNG)
 - Click on advance and add Mail
@@ -93,3 +93,28 @@ Next,
 
 ![Automate 13](https://user-images.githubusercontent.com/37354986/186601320-aeb211a1-da97-47d8-a5dd-5c832a683a38.PNG)
 - Save and set the flow name.
+
+## 5. Lets test
+![test 1](https://user-images.githubusercontent.com/37354986/186602077-8dd85436-6a08-470c-b8c6-1510fa23011d.PNG)
+- Fill out the form
+
+![test 2](https://user-images.githubusercontent.com/37354986/186602122-afb78a1d-f06f-4ec5-b6e5-7e4b49ac92a0.PNG)
+- Approver will get an email
+
+
+![test 3](https://user-images.githubusercontent.com/37354986/186602173-c97f3fd3-40f4-4ec5-8fdb-26b3a7ed0fe9.PNG)
+- Approver approved
+
+![test 7](https://user-images.githubusercontent.com/37354986/186602271-3fc121bd-7888-4aa9-b001-2b85dec5ee52.PNG)
+- Requestor will get the request status approved
+
+![test 5](https://user-images.githubusercontent.com/37354986/186602486-8cf87d01-b643-4fd6-965e-e85565ed9cf4.PNG)
+- Lets test other option, if the approver reject.
+
+![test 6](https://user-images.githubusercontent.com/37354986/186602603-d5acb93b-87da-403c-9d97-c56e2d5c7a2b.PNG)
+- Requester will get the request status rejected.
+
+![test 4](https://user-images.githubusercontent.com/37354986/186602734-a4dd0385-3e48-4105-a2a1-8a58a0af6518.PNG)
+- Ony approved status will be recorded.
+
+The flow is successfull.
